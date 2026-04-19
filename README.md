@@ -24,12 +24,12 @@
 
 ---
 
-## 📈 Developer Progress
+## 🎮 Skill Levels
 
 <p align="center">
-  <img src="https://progress-bar.dev/85/?title=Backend%20Development&width=500&color=00F7FF"/>
-  <img src="https://progress-bar.dev/80/?title=Laravel&width=500&color=FF6F00"/>
-  <img src="https://progress-bar.dev/75/?title=Django%20%2F%20FastAPI&width=500&color=00C853"/>
+  <img src="https://img.shields.io/badge/Backend%20XP-8500%2F10000-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Laravel%20XP-8000%2F10000-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django%20XP-7500%2F10000-00C853?style=for-the-badge"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@
 
 ---
 
-## 🧠 Featured Projects (Highlighted Work)
+## 🧠 Featured Projects
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjeetCS&repo=MyCalculator&theme=tokyonight&hide_border=true&cache_seconds=1800" />
