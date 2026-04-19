@@ -1,7 +1,7 @@
 <!-- 🌌 HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=220&section=header&text=Ajeet%20Kumar&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20Engineer&descAlignY=68&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ajeet%20Kumar&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20Engineer&descAlignY=68&descSize=20" />
 </p>
 
 <!-- ⚡ TYPING -->
@@ -101,10 +101,10 @@
 
 <p align="center">
   <a href="https://ajeet.life">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox"/>
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=firefox"/>
   </a>
   <a href="https://linkedin.com/in/ajeet-kumar-a5a6b8212">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:ajeetkumar000.cse@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
@@ -122,5 +122,5 @@
 <!-- 🌌 FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
