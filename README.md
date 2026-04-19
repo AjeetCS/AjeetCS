@@ -7,7 +7,7 @@
 <!-- ⚡ TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Laravel+%7C+Django+%7C+FastAPI;Backend+Systems+Specialist;3%2B+Years+Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Laravel+%7C+Django+%7C+FastAPI;3%2B+Years+Experience" />
 </p>
 
 ---
