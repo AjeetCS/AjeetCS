@@ -54,8 +54,8 @@
 ## 🧠 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjeetCS&repo=MyCalculator&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjeetCS&repo=CollegeWebpage&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjeetCS&repo=MyCalculator&theme=default&bg_color=0f2027&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjeetCS&repo=CollegeWebpage&theme=default&bg_color=0f2027&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&hide_border=true" />
 </p>
 
 ---
@@ -63,8 +63,8 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AjeetCS&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjeetCS&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AjeetCS&show_icons=true&theme=default&bg_color=0f2027&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjeetCS&theme=default&background=0f2027&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&hide_border=true" />
 </p>
 
 ---
@@ -122,5 +122,5 @@
 <!-- 🌌 FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:203a43&height=120&section=footer"/>
 </p>
