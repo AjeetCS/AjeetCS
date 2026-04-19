@@ -63,8 +63,9 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AjeetCS&show_icons=true&theme=default&bg_color=0f2027&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjeetCS&theme=default&background=0f2027&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AjeetCS&show_icons=true&theme=default&bg_color=0f2027&title_color=00F7FF&text_color=E0F7FA&icon_color=00F7FF&border_color=2c5364&hide_border=false" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjeetCS&theme=default&background=0f2027&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=E0F7FA&dates=E0F7FA&sideNums=FFFFFF&currStreakNum=FFFFFF&hide_border=false&border=2c5364" />
 </p>
 
 ---
