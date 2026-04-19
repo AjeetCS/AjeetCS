@@ -126,5 +126,7 @@
 <!-- 🌌 FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MODE-DEVELOPMENT-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND%20SYSTEMS-FF6F00?style=for-the-badge"/>
 </p>
