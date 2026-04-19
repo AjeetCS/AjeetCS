@@ -126,5 +126,5 @@
 <!-- 🌌 FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:203a43&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:00F7FF&height=120&section=footer"/>
 </p>
