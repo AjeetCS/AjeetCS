@@ -53,9 +53,17 @@
 
 ## 🧠 Featured Projects
 
+### 🚀 High-Performance API System
+- Built scalable REST APIs using FastAPI & PostgreSQL  
+- Optimized queries using indexing → improved performance  
+
+### 🛒 E-commerce Platform
+- Laravel-based system with multi-payment integration  
+- Implemented RBAC + secure authentication  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjeetCS&repo=MyCalculator&theme=default&bg_color=0f2027&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjeetCS&repo=CollegeWebpage&theme=default&bg_color=0f2027&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjeetCS&repo=MyCalculator&theme=default&bg_color=0f2027&title_color=00F7FF&text_color=E0F7FA&icon_color=00F7FF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjeetCS&repo=CollegeWebpage&theme=default&bg_color=0f2027&title_color=00F7FF&text_color=E0F7FA&icon_color=00F7FF&hide_border=true" />
 </p>
 
 ---
