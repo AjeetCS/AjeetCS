@@ -7,7 +7,7 @@
 <!-- ⚡ TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Laravel+%7C+Django+%7C+FastAPI;Building+Scalable+Backend+Systems;3%2B+Years+Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Laravel+%7C+Django+%7C+FastAPI;Backend+Systems+Specialist;3%2B+Years+Experience" />
 </p>
 
 ---
@@ -21,6 +21,16 @@
 + Specialization: Backend Systems & APIs
 + Status: 🟢 Open to Opportunities
 ```
+
+---
+
+## 📈 Developer Progress
+
+<p align="center">
+  <img src="https://progress-bar.dev/85/?title=Backend%20Development&width=500&color=00F7FF"/>
+  <img src="https://progress-bar.dev/80/?title=Laravel&width=500&color=FF6F00"/>
+  <img src="https://progress-bar.dev/75/?title=Django%20%2F%20FastAPI&width=500&color=00C853"/>
+</p>
 
 ---
 
@@ -41,7 +51,7 @@
 
 ---
 
-## 🧩 Featured Projects
+## 🧠 Featured Projects (Highlighted Work)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjeetCS&repo=MyCalculator&theme=tokyonight&hide_border=true&cache_seconds=1800" />
@@ -73,7 +83,17 @@
   <img src="https://img.shields.io/badge/Scalable%20Systems-00F7FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/High%20Performance-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Development-9C27B0?style=for-the-badge"/>
 </p>
+
+---
+
+## 💼 Why Hire Me
+
+* ✅ 3+ years of real-world development experience
+* ✅ Built and deployed production-grade applications
+* ✅ Strong backend + database optimization skills
+* ✅ Handle full lifecycle (development → deployment → maintenance)
 
 ---
 
