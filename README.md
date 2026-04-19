@@ -1,30 +1,30 @@
-<!-- 🎮 FUTURISTIC GAME HEADER -->
+<!-- 🌌 HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=AJ%20DEV%20CONSOLE&fontSize=40&fontColor=00F7FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=Ajeet%20Kumar&fontSize=40&fontColor=00F7FF&animation=fadeIn" />
 </p>
 
-<!-- ⚡ TYPING ANIMATION -->
+<!-- ⚡ TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Initializing+System...;Full+Stack+Engineer+Online;Laravel+%7C+Django+%7C+FastAPI;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Laravel+%7C+Django+%7C+FastAPI;Building+Scalable+Backend+Systems;3%2B+Years+Experience" />
 </p>
 
 ---
 
-## 🕹️ PLAYER PROFILE
+## 👨‍💻 Profile Overview
 
 ```diff
 + Name: Ajeet Kumar
 + Role: Full Stack Engineer
 + Experience: 3+ Years
-+ Stack: Laravel | Django | FastAPI
-+ Status: 🟢 ACTIVE
++ Specialization: Backend Systems & APIs
++ Status: 🟢 Open to Opportunities
 ```
 
 ---
 
-## ⚡ SKILL TREE
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,python,js,laravel,django,fastapi,nextjs,mysql,postgres,git,linux,bootstrap" />
@@ -32,16 +32,16 @@
 
 ---
 
-## 🧩 ABILITIES UNLOCKED
+## 🚀 Core Expertise
 
-* 🚀 Build scalable REST APIs
-* ⚡ Optimize database performance
-* 🔐 Implement secure authentication (OTP, RBAC)
-* 🌐 Deploy & manage production systems
+* 🚀 Scalable REST API Development
+* ⚡ Database Optimization & Query Performance
+* 🔐 Secure Authentication (OTP, RBAC)
+* 🌐 Deployment & Production Management
 
 ---
 
-## 🗺️ ACTIVE QUESTS (PROJECTS)
+## 🧩 Featured Projects
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjeetCS&repo=MyCalculator&theme=tokyonight&hide_border=true&cache_seconds=1800" />
@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 PLAYER STATS
+## 📊 GitHub Insights
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AjeetCS&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
@@ -59,7 +59,7 @@
 
 ---
 
-## 🐍 XP TRACKER (Contribution Snake)
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AjeetCS/AjeetCS/output/github-contribution-grid-snake.svg" />
@@ -67,7 +67,7 @@
 
 ---
 
-## 🎯 MISSION FOCUS
+## 🎯 Focus Areas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scalable%20Systems-00F7FF?style=for-the-badge"/>
@@ -77,24 +77,24 @@
 
 ---
 
-## 🤝 CONNECT
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://ajeet.life">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=firefox"/>
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox"/>
   </a>
   <a href="https://linkedin.com/in/ajeet-kumar-a5a6b8212">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:ajeetkumar000.cse@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <b>AVAILABLE FOR JOBS | FREELANCE | COLLABORATION</b> ⭐
+  ⭐ <b>Open for Full-Time | Freelance | Collaboration</b>
 </p>
 
 ---
