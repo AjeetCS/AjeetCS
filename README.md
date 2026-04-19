@@ -1,7 +1,7 @@
 <!-- 🌌 HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=240&section=header&text=Ajeet%20Kumar&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Engineer&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=200&section=header&text=Ajeet%20Kumar&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20Engineer&descAlignY=70" />
 </p>
 
 <!-- ⚡ TYPING -->
